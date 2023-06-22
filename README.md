@@ -8,5 +8,5 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/K1RiK)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/K1RiK?theme=dark&font=Roboto)](https://github.com/K1RiK)<br>
-[![codewars](https://www.codewars.com/users/K1RiK/badges/large)](https://github.com/K1RiK)]<br>
+[![codewars](https://www.codewars.com/users/K1RiK/badges/large)](https://github.com/K1RiK)<br>
 [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=K1RiK&left_text=My%20Page%20Visitors)](https://github.com/K1RiK)
